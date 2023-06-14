@@ -7,16 +7,16 @@
 - 우산 반납하기
 
 ### 로그인/회원가입
-<img src=""></img>
+<img src="https://user-images.githubusercontent.com/87884004/245731354-99cb48f9-d23c-4e8c-a482-626a47b8a84a.gif"></img>
 
 ### 마이페이지 - 우산 반납
-<img src=""></img>
+<img src="https://user-images.githubusercontent.com/87884004/245731342-bb78e59b-bea0-4373-9a46-b3ce50e27278.gif"></img>
 
 ### 지점확인 - 길찾기
-<img src=""></img>
+<img src="https://user-images.githubusercontent.com/87884004/245731592-1b77c771-239a-42cb-a624-bc93f2c67ccd.gif"></img>
 
 ### 우산대여하기
-<img src=""></img>
+<img src="https://user-images.githubusercontent.com/87884004/245731351-e6d6274d-3d45-487b-a5f8-9a5dfde69259.gif"></img>
 
-### 프로그램 구현
-<img src=""></img>
+### 프로그램 실행
+<img src="https://github.com/ckimzll/OOP-UmbrellaRentalServiceProject/issues/3#issue-1756397416"></img>
