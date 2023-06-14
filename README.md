@@ -19,4 +19,4 @@
 <img src="https://user-images.githubusercontent.com/87884004/245731351-e6d6274d-3d45-487b-a5f8-9a5dfde69259.gif"></img>
 
 ### 프로그램 실행
-<img src="https://user-images.githubusercontent.com/87884004/245735447-41e461df-018f-4b87-9e7f-0e2ebc169399.mp4"></img>
+<img src="[https://user-images.githubusercontent.com/87884004/245735447-41e461df-018f-4b87-9e7f-0e2ebc169399.mp4](https://user-images.githubusercontent.com/87884004/245735447-41e461df-018f-4b87-9e7f-0e2ebc169399.mp4)"></img>
